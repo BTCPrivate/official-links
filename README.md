@@ -3,21 +3,19 @@
 
 ## Bitcoin Private (BTCP)
 
-* Website: 
-* Explorer: 
-* ANN: 
+* Website: TBD
+* Explorer: TBD
+* ANN: TBD
 * Github: https://github.com/BTCPrivate/BitcoinPrivate
 * Github Website & Wallet: https://github.com/BTCP-community/
-* Coinmarketcap: 
+* Coinmarketcap: TBD
 * Reddit: https://www.reddit.com/r/Bitcoin_Private/
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
+* Discord: https://discord.gg/pKYcR6h
 
 Exchanges:
-* https://bittrex.com/Market/Index?MarketName=BTC-ZCL
-* https://www.cryptopia.co.nz/Exchange?market=ZCL_BTC
-* https://www.coinexchange.io/market/ZCL/BTC
-
+* TBD
 
 Donation Addresses:
 * BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
@@ -27,6 +25,8 @@ Donation Addresses:
 Bounty Development Donation Addresses:
 * BTC: 1PfdxTVzr2mzss8KY8cR9wAHS56CEyvsyR
 * BCH: 1K6wF5o3VFbp3RrRHMa7K9Ed6bbdSNNB2J
+
+
 
 ## Zclassic (ZCL)
 
@@ -38,6 +38,7 @@ Bounty Development Donation Addresses:
 * Reddit: https://www.reddit.com/r/ZClassic/
 * Twitter: https://twitter.com/ZclassicCoin
 * Telegram News: https://t.me/bitcoinprivatenews
+* Discord: https://discord.gg/BGbC88c
 
 Exchanges:
 * https://bittrex.com/Market/Index?MarketName=BTC-ZCL
