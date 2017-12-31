@@ -18,6 +18,16 @@ Exchanges:
 * https://www.cryptopia.co.nz/Exchange?market=ZCL_BTC
 * https://www.coinexchange.io/market/ZCL/BTC
 
+
+Donation Addresses:
+* BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
+* ZCL address: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
+* LTC address: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
+
+Bounty Development Donation Addresses:
+* BTC: 1PfdxTVzr2mzss8KY8cR9wAHS56CEyvsyR
+* BCH: 1K6wF5o3VFbp3RrRHMa7K9Ed6bbdSNNB2J
+
 ## Zclassic (ZCL)
 
 * Website: http://zclassic.org/
