@@ -11,14 +11,12 @@
 * Coinmarketcap: 
 * Reddit: https://www.reddit.com/r/Bitcoin_Private/
 * Twitter: https://twitter.com/ZclassicCoin
-
 * Telegram News: https://t.me/bitcoinprivatenews
 
 Exchanges:
 * https://bittrex.com/Market/Index?MarketName=BTC-ZCL
 * https://www.cryptopia.co.nz/Exchange?market=ZCL_BTC
 * https://www.coinexchange.io/market/ZCL/BTC
-
 
 ## Zclassic (ZCL)
 
