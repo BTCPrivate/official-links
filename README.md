@@ -10,7 +10,7 @@
 * Github Website & Wallet: https://github.com/BTCP-community/
 * Coinmarketcap: 
 * Reddit: https://www.reddit.com/r/Bitcoin_Private/
-* Twitter: https://twitter.com/ZclassicCoin
+* Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
 
 Exchanges:
