@@ -35,7 +35,7 @@ Bounty Development Donation Addresses:
 * ANN: https://bitcointalk.org/index.php?topic=1671982
 * Github: https://github.com/z-classic/zclassic
 * Coinmarketcap: https://coinmarketcap.com/currencies/zclassic/
-* Reddit: https://www.reddit.com/r/ZClassic/
+* Reddit: https://www.reddit.com/r/ZClassicOfficial/
 * Twitter: https://twitter.com/ZclassicCoin
 * Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/BGbC88c
@@ -46,7 +46,7 @@ Exchanges:
 * https://www.coinexchange.io/market/ZCL/BTC
 
 Setting up ZCL nodes:
-* https://www.reddit.com/r/ZClassic/comments/7myzv2/here_is_why_people_cannot_get_connections_on_the/
+* https://redd.it/7n9ily
 
 
 
