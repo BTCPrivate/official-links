@@ -5,11 +5,11 @@
 
 * Website: TBD
 * Explorer: TBD
-* ANN: TBD
+* ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate/BitcoinPrivate
 * Github Website & Wallet: https://github.com/BTCP-community/
 * Coinmarketcap: TBD
-* Reddit: https://www.reddit.com/r/Bitcoin_Private/
+* Reddit: https://www.reddit.com/r/BitcoinPrivate/
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/pKYcR6h
@@ -35,9 +35,8 @@ Bounty Development Donation Addresses:
 * ANN: https://bitcointalk.org/index.php?topic=1671982
 * Github: https://github.com/z-classic/zclassic
 * Coinmarketcap: https://coinmarketcap.com/currencies/zclassic/
-* Reddit: https://www.reddit.com/r/ZClassicOfficial/
+* Reddit: https://www.reddit.com/r/ZClassic/
 * Twitter: https://twitter.com/ZclassicCoin
-* Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/BGbC88c
 
 Exchanges:
