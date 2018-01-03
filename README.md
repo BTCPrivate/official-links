@@ -9,7 +9,7 @@
 * Github: https://github.com/BTCPrivate/BitcoinPrivate
 * Github Website & Wallet: https://github.com/BTCP-community/
 * Coinmarketcap: TBD
-* Reddit: https://www.reddit.com/r/Bitcoin_Private/
+* Reddit: https://www.reddit.com/r/BitcoinPrivate/
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/pKYcR6h
