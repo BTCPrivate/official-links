@@ -50,7 +50,7 @@ Exchanges:
 * https://www.coinexchange.io/market/ZCL/BTC
 
 Setting up ZCL nodes:
-* https://redd.it/7n9ily
+* https://www.reddit.com/r/ZClassic/comments/7myzv2/here_is_why_people_cannot_get_connections_on_the/
 
 
 
