@@ -5,7 +5,7 @@
 
 * Website: https://bitcoinpvt.org
 * Explorer: TBD
-* ANN: TBD
+* ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate/BitcoinPrivate
 * Github Website & Wallet: https://github.com/BTCP-community/
 * Coinmarketcap: TBD
