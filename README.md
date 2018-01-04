@@ -23,8 +23,10 @@ Donation Addresses:
 * LTC address: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
 
 Bounty Development Donation Addresses:
-* BTC: 1PfdxTVzr2mzss8KY8cR9wAHS56CEyvsyR
-* BCH: 1K6wF5o3VFbp3RrRHMa7K9Ed6bbdSNNB2J
+* ZCL: t1PYGwJLkDBdNnEWe3w8N9pjFGQupnWYN3k
+* BTC: 12AizDy1LTEd9DytvZbV3tPf5eVb5Sgt1k
+* LTC: LSPQjwuy1frgVRgAutk2fJz9aipQfv9j5U
+* BCH: 1MxJteinBWHMUibDxADujrgzXfX1LeVZKN
 
 
 
