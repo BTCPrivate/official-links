@@ -12,6 +12,7 @@
 * Reddit: https://www.reddit.com/r/BitcoinPrivate/
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
+* Telegram Group: https://t.me/BTCPrivate
 * Discord: https://discord.gg/pKYcR6h
 
 Exchanges:
