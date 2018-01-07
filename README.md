@@ -15,6 +15,8 @@
 * Telegram Group: https://t.me/BTCPrivate
 * Discord: https://discord.gg/pKYcR6h
 
+* Paper Wallet Maker Website: https://zclassicpaperwallet.com/
+
 Exchanges:
 * TBD
 
