@@ -30,8 +30,8 @@ Donation Addresses:
 ## Zclassic (ZCL)
 
 * Website: http://zclassic.org/
-* Explorer: http://explorer.zclmine.pro/
-* Explorer 2: http://www.myzcl.com/
+* Explorer: http://zcl-explorer.com/insight/
+* Explorer 2: http://zclassicexplorer.com/
 * ANN: https://bitcointalk.org/index.php?topic=1671982
 * Github: https://github.com/z-classic/zclassic
 * Coinmarketcap: https://coinmarketcap.com/currencies/zclassic/
