@@ -24,13 +24,7 @@ Donation Addresses:
 * BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
 * ZCL address: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
 * LTC address: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
-
-Bounty Development Donation Addresses:
-* ZCL: t1PYGwJLkDBdNnEWe3w8N9pjFGQupnWYN3k
-* BTC: 12AizDy1LTEd9DytvZbV3tPf5eVb5Sgt1k
-* LTC: LSPQjwuy1frgVRgAutk2fJz9aipQfv9j5U
 * BCH: 1MxJteinBWHMUibDxADujrgzXfX1LeVZKN
-
 
 
 ## Zclassic (ZCL)
@@ -45,6 +39,7 @@ Bounty Development Donation Addresses:
 * Twitter: https://twitter.com/ZclassicCoin
 * Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/BGbC88c
+* Electrum Wallet: https://github.com/BTCP-community/electrum-zcl/releases
 
 Exchanges:
 * https://bittrex.com/Market/Index?MarketName=BTC-ZCL
