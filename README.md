@@ -35,9 +35,8 @@ Donation Addresses:
 * ANN: https://bitcointalk.org/index.php?topic=1671982
 * Github: https://github.com/z-classic/zclassic
 * Coinmarketcap: https://coinmarketcap.com/currencies/zclassic/
-* Reddit: https://www.reddit.com/r/ZClassicOfficial/
+* Reddit: https://www.reddit.com/r/ZClassic/
 * Twitter: https://twitter.com/ZclassicCoin
-* Telegram News: https://t.me/bitcoinprivatenews
 * Discord: https://discord.gg/BGbC88c
 * Electrum Wallet: https://github.com/BTCP-community/electrum-zcl/releases
 
