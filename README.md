@@ -20,6 +20,9 @@
 Exchanges:
 * TBD
 
+Mining Pools:
+* Coinfoundry: https://coinfoundry.org/pool/btcp
+
 Donation Addresses:
 * BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
 * ZCL address: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
