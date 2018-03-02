@@ -15,8 +15,6 @@
 * Telegram Group: https://t.me/BTCPrivate
 * Discord: https://discord.gg/pKYcR6h
 
-* Paper Wallet Maker Website: https://zclassicpaperwallet.com/
-
 Exchanges:
 * TBD
 
@@ -41,6 +39,7 @@ Donation Addresses:
 * Twitter: https://twitter.com/ZclassicCoin
 * Discord: https://discord.gg/BGbC88c
 * Electrum Wallet: https://github.com/BTCP-community/electrum-zcl/releases
+* Paper Wallet Maker Website: https://zclassicpaperwallet.com/
 
 Exchanges:
 * https://bittrex.com/Market/Index?MarketName=BTC-ZCL
