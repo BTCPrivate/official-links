@@ -20,6 +20,7 @@ Exchanges:
 * TBD
 
 Donation Addresses:
+* BTCP address: b1RXUJgnuxtzHyJ5UTWerh4pNBWcVikESZe
 * BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
 * ZCL address: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
 * LTC address: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
