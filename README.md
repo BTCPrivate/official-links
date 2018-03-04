@@ -27,7 +27,7 @@ Donation Addresses:
 * BTC address: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
 * ZCL address: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
 * LTC address: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
-* BCH: 1MxJteinBWHMUibDxADujrgzXfX1LeVZKN
+* BCH address: 1MxJteinBWHMUibDxADujrgzXfX1LeVZKN
 
 
 
