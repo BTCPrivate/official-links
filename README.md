@@ -8,7 +8,7 @@
 * Website: https://btcprivate.org/
 * Official Pool: https://pool.btcprivate.org/
 * Paper Wallet: https://paperwallet.btcprivate.org/
-* Explorer: TBD
+* Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
 * Coinmarketcap: TBD
