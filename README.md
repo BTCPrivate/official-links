@@ -1,14 +1,16 @@
 
 > A curated list of official links for the Bitcoin Private ecosystem.
 
+*We will never ask for your private key. Do not fall for scams.*
+
 ## Bitcoin Private (BTCP)
 
 * Website: https://btcprivate.org/
 * Official Pool: https://pool.btcprivate.org/
+* Paper Wallet: https://paperwallet.btcprivate.org/
 * Explorer: TBD
 * ANN: https://bitcointalk.org/index.php?topic=2675257
-* Github: https://github.com/BTCPrivate/BitcoinPrivate
-* Github Website & Wallet: https://github.com/BTCP-community/
+* Github: https://github.com/BTCPrivate
 * Coinmarketcap: TBD
 * Reddit: https://www.reddit.com/r/BitcoinPrivate/
 * Twitter: https://twitter.com/bitcoinprivate
