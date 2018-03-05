@@ -22,6 +22,9 @@ Exchanges (Coming Soon):
 * HitBTC
 * TradeSatoshi
 
+Mining Pools:
+* Coinfoundry: https://coinfoundry.org/pool/btcp
+
 Donation Addresses:
 * BTCP: b1RXUJgnuxtzHyJ5UTWerh4pNBWcVikESZe
 * BTC: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
