@@ -5,14 +5,14 @@
 
 ## Bitcoin Private (BTCP)
 
-* Official Website: https://btcprivate.org/
-* Official Pool: https://pool.btcprivate.org/
-* Paper Wallet: https://paperwallet.btcprivate.org/
+* Official Website: https://btcprivate.org
+* Official Pool: https://pool.btcprivate.org
+* Paper Wallet: https://paperwallet.btcprivate.org
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
 * CoinMarketCap: TBD
-* Reddit: https://www.reddit.com/r/BitcoinPrivate/
+* Reddit: https://www.reddit.com/r/BitcoinPrivate
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Telegram Group: https://t.me/BTCPrivate
