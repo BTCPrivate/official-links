@@ -23,6 +23,7 @@ Social Media:
 * Telegram Group: https://t.me/BTCPrivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Twitter: https://twitter.com/bitcoinprivate
+* Youtube: https://www.youtube.com/channel/UCt5MOeYrCAa-KzjpRSwEwAg
 
 
 Exchanges:
