@@ -11,18 +11,23 @@
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
-* CoinMarketCap: TBD
+* CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-private/
+* LiveCoinWatch: https://www.livecoinwatch.com/price/BitcoinPrivate-BTCP
 * Reddit: https://www.reddit.com/r/BitcoinPrivate
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Telegram Group: https://t.me/BTCPrivate
 * Discord: https://discord.gg/pKYcR6h
 
+Exchanges:
+* TradeSatoshi: https://tradesatoshi.com/Exchange?market=BTCP_BTC
+* Nanex: https://nanex.co/exchange/BTCPNANO
+
 Exchanges (Coming Soon):
 * HitBTC
-* TradeSatoshi
 
-Donation Addresses:
+
+Contribution Addresses:
 * BTCP: b1RXUJgnuxtzHyJ5UTWerh4pNBWcVikESZe
 * BTC: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
 * ZCL: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
