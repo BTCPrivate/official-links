@@ -6,7 +6,7 @@
 ## Bitcoin Private (BTCP)
 
 * Official Website: https://btcprivate.org
-* Official Pool: https://pool.btcprivate.org
+* Official Pool: http://pool.btcprivate.org
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
