@@ -7,17 +7,23 @@
 
 * Official Website: https://btcprivate.org
 * Official Pool: https://pool.btcprivate.org
-* Paper Wallet: https://paperwallet.btcprivate.org
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
+* Paper Wallet: https://paperwallet.btcprivate.org
+
 * CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-private/
 * LiveCoinWatch: https://www.livecoinwatch.com/price/BitcoinPrivate-BTCP
-* Reddit: https://www.reddit.com/r/BitcoinPrivate
-* Twitter: https://twitter.com/bitcoinprivate
-* Telegram News: https://t.me/bitcoinprivatenews
-* Telegram Group: https://t.me/BTCPrivate
+* WorldCoinIndex: https://www.worldcoinindex.com/coin/bitcoinprivate
+
+Social Media:
 * Discord: https://discord.gg/pKYcR6h
+* Medium: https://medium.com/@bitcoinprivate
+* Reddit: https://www.reddit.com/r/BitcoinPrivate
+* Telegram Group: https://t.me/BTCPrivate
+* Telegram News: https://t.me/bitcoinprivatenews
+* Twitter: https://twitter.com/bitcoinprivate
+
 
 Exchanges:
 * TradeSatoshi: https://tradesatoshi.com/Exchange?market=BTCP_BTC
