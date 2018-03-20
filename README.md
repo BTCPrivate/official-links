@@ -10,7 +10,10 @@
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
+* Wallets: https://btcprivate.org/#wallets
 * Paper Wallet: https://paperwallet.btcprivate.org
+* Support: https://support.btcprivate.org
+* Whitepaper: https://btcprivate.org/whitepaper.pdf
 
 * CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-private/
 * LiveCoinWatch: https://www.livecoinwatch.com/price/BitcoinPrivate-BTCP
@@ -18,6 +21,7 @@
 
 Social Media:
 * Discord: https://discord.gg/pKYcR6h
+* Facebook: https://www.facebook.com/bitcoinprivate
 * Medium: https://medium.com/@bitcoinprivate
 * Reddit: https://www.reddit.com/r/BitcoinPrivate
 * Telegram Group: https://t.me/BTCPrivate
@@ -29,6 +33,10 @@ Social Media:
 Exchanges:
 * TradeSatoshi: https://tradesatoshi.com/Exchange?market=BTCP_BTC
 * Nanex: https://nanex.co/exchange/BTCPNANO
+* OctaEx: https://www.octaex.com/trade/index/market/btcp_btc/
+* Exrates: https://exrates.me
+* Barterdex: https://komodoplatform.com/decentralized-exchange
+
 
 Exchanges (Coming Soon):
 * HitBTC
