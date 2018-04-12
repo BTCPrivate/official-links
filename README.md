@@ -44,9 +44,7 @@ Exchanges (Coming Soon):
 
 Contribution Addresses:
 * BTCP: b1RXUJgnuxtzHyJ5UTWerh4pNBWcVikESZe
-* BTC: 1CqSD9rxdQnKEwzqqbLwpgwCeQikFCifPj
-* ZCL: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
-* LTC: LNYzDrUeX6PSecu4sL4eZkuJGaSXnf8GUH
-* BCH: 1MxJteinBWHMUibDxADujrgzXfX1LeVZKN
+* BTCP Shielded: zkEyLYc45LdNmzjJ84aGFAJ8CW959FCARYNso64SPmzymozageLS9YJ6HKbHSoqjXsV7bjrDEzXVLnMQtUCTeETKehPDPU4
+
 
 
