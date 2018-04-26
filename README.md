@@ -8,8 +8,10 @@
 * Official Website: https://btcprivate.org
 * Official Pool: http://pool.btcprivate.org
 * Block Explorer: https://explorer.btcprivate.org
+* Block Explorer API: https://explorer.btcprivate.org/api/status
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
+* Github Official Links: https://github.com/BTCPrivate/official-links
 * Wallets: https://btcprivate.org/#wallets
 * Paper Wallet: https://paperwallet.btcprivate.org
 * Support: https://support.btcprivate.org
