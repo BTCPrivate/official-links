@@ -22,7 +22,7 @@
 * WorldCoinIndex: https://www.worldcoinindex.com/coin/bitcoinprivate
 
 Social Media:
-* Discord: https://discord.gg/pKYcR6h
+* Discord: https://discord.gg/ge2RqHx
 * Facebook: https://www.facebook.com/bitcoinprivate
 * Instagram: https://www.instagram.com/btcprivateofficial
 * Medium: https://medium.com/@bitcoinprivate
