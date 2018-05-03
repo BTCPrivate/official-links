@@ -40,10 +40,8 @@ Exchanges:
 * Exrates: https://exrates.me
 * Barterdex: https://komodoplatform.com/decentralized-exchange
 * Sistemkoin: https://sistemkoin.com
+* HitBTC: https://hitbtc.com/exchange/BTCP-to-BTC
 
-
-Exchanges (Coming Soon):
-* HitBTC
 
 
 Contribution Addresses:
