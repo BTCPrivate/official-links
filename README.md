@@ -38,7 +38,6 @@ Exchanges:
 * Nanex: https://nanex.co/exchange/BTCPNANO
 * OctaEx: https://www.octaex.com/trade/index/market/btcp_btc/
 * Exrates: https://exrates.me
-* Barterdex: https://komodoplatform.com/decentralized-exchange
 * Sistemkoin: https://sistemkoin.com
 * HitBTC: https://hitbtc.com/exchange/BTCP-to-BTC
 
