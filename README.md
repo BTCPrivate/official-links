@@ -26,7 +26,7 @@ Social Media:
 * Facebook: https://www.facebook.com/bitcoinprivate
 * Instagram: https://www.instagram.com/btcprivateofficial
 * Medium: https://medium.com/@bitcoinprivate
-* Reddit: https://www.reddit.com/r/BitcoinPrivate
+* Reddit: https://www.reddit.com/r/BTC_Private
 * Telegram Group: https://t.me/BTCPrivate
 * Telegram News: https://t.me/bitcoinprivatenews
 * Twitter: https://twitter.com/bitcoinprivate
