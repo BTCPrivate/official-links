@@ -42,6 +42,7 @@ Exchanges:
 * Barterdex: https://komodoplatform.com/decentralized-exchange
 * Sistemkoin: https://sistemkoin.com
 * HitBTC: https://hitbtc.com/exchange/BTCP-to-BTC
+* TradeOgre: https://tradeogre.com/exchange/BTC-BTCP
 
 
 
