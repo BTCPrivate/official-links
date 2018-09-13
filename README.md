@@ -42,6 +42,8 @@ Exchanges:
 * Barterdex: https://komodoplatform.com/decentralized-exchange
 * Sistemkoin: https://sistemkoin.com
 * HitBTC: https://hitbtc.com/exchange/BTCP-to-BTC
+* TopBTC: https://topbtc.com/home/market/index/market/BTC/coin/BTCP.html
+* Crex24: https://crex24.com/exchange/BTCP-BTC
 
 
 
