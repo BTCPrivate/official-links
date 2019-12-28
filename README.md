@@ -5,6 +5,11 @@
 
 ## Bitcoin Private (BTCP)
 
+Official Email Addresses:
+* official@btcp.network
+* support@btcp.network
+
+Websites
 * Official Website: https://btcp.network
 * Official Pool: http://pool.btcp.network
 * Block Explorer: https://explorer.btcp.network
