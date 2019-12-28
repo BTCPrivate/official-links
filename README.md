@@ -5,17 +5,17 @@
 
 ## Bitcoin Private (BTCP)
 
-* Official Website: https://btcprivate.org
-* Official Pool: http://pool.btcprivate.org
-* Block Explorer: https://explorer.btcprivate.org
-* Block Explorer API: https://explorer.btcprivate.org/api/status
+* Official Website: https://btcp.network
+* Official Pool: http://pool.btcp.network
+* Block Explorer: https://explorer.btcp.network
+* Block Explorer API: https://explorer.btcp.network/api/status
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
 * Github Official Links: https://github.com/BTCPrivate/official-links
-* Wallets: https://btcprivate.org/#wallets
-* Paper Wallet: https://paperwallet.btcprivate.org
-* Support: https://support.btcprivate.org
-* Whitepaper: https://btcprivate.org/whitepaper.pdf
+* Wallets: https://btcp.network/#wallets
+* Paper Wallet: https://paperwallet.btcp.network
+* Support: https://support.btcp.network
+* Whitepaper: https://btcp.network/whitepaper.pdf
 
 * CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-private/
 * LiveCoinWatch: https://www.livecoinwatch.com/price/BitcoinPrivate-BTCP
