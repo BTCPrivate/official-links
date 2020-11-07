@@ -1,5 +1,5 @@
 
-> A curated list of official links for the Bitcoin Private ecosystem.
+## A curated list of official links for the Bitcoin Private ecosystem.
 
 **We will never ask for your private key! Do not fall for scams!**
 
@@ -72,8 +72,8 @@ Exchanges:
 
 
 Contribution Addresses:
-* BTCP: b1RXUJgnuxtzHyJ5UTWerh4pNBWcVikESZe
-* BTCP Shielded: zkEyLYc45LdNmzjJ84aGFAJ8CW959FCARYNso64SPmzymozageLS9YJ6HKbHSoqjXsV7bjrDEzXVLnMQtUCTeETKehPDPU4
+* BTCP: 
+* BTCP Shielded: 
 
 
 
